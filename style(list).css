@@ -1,0 +1,28 @@
+h1 {
+color : yellow;
+font-size : 45px;
+background-color : gray;
+}
+h2 {
+	color: white;
+	font-size : 20px;
+}
+ol {
+	background : #ddd;
+	list-style-position:inside;
+}
+ol li {
+	background : white;
+}
+h3 {
+	color: white;
+	font-size : 20px;
+}
+ul{
+	background : #ddd;
+	list-style-position:outside;
+}
+ul li {
+	background:white;
+	margin : 5px;
+}
